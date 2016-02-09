@@ -43,6 +43,7 @@ public class PaintingParser {
         }
 
         System.out.println("\nParsed input file '" + this.fileName + this.fileExtension + "' and wrote output to '" + this.fileName + ".out'");
+        System.out.println("\nCommand count: " + this.commandCounter);
     }
 
     private void readInput() {
