@@ -1,2 +1,2 @@
-# google-hash-code-2016-practice
-Google Hash Code Practice Problem before the actual event.
+# Google Hash Code 2016
+[Google Hash Code](https://hashcode.withgoogle.com/) Practice Problem before the actual event.
